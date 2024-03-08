@@ -1,0 +1,113 @@
+/*.diceimg{
+    display: flex;
+    margin: 10px;
+    width: 100vw;
+    height: 100px;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 50%;
+    margin-left: 25%;
+
+}
+.result{
+    justify-content: center;
+    font-size: 50px;
+    overflow:scroll;
+    flex-wrap: wrap;
+    margin-left: 25%;
+    justify-content: center;
+    width:50%
+}
+.btn{
+    background-color: blue;
+    color: wheat;
+    width: 100px;
+    height: 25px;
+    border-radius: 25px;
+
+}
+.iio{
+    font-size: 20px;
+    font-weight:bold ;
+}
+#nn{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color:lightgray;
+
+}
+.container{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+.btn:hover{
+    background-color: aliceblue;
+    color: black;
+}
+.ii{
+    margin: 10px;
+    height:100px;
+    width:100px;
+}
+h1{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}*/
+/*.timing{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.time{
+    font-size: 6rem;
+    color: white;
+    font-style: normal;
+}*/
+.title{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 20vh;
+
+    justify-content: center;
+}
+.title1{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 60px;
+    justify-content: center;
+}
+.btns{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.btn{
+    width: 70px;
+    height: 40px;
+    border-radius: 4px;
+    border: 2px solid;
+    margin-right: 20px;
+    background-color: beige;
+}
+.btn:hover{
+    background-color: chocolate;
+    color: aliceblue;
+    
+}
+.temp{
+    background-color:lightcoral;
+    width: 400px;
+    height: 250px;
+    border: 5px solid;
+    border-radius: 10px;
+    margin:auto;
+}
